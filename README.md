@@ -1,7 +1,7 @@
 # Dev-Detective-Project
 Page that provides GitHub profile details for the user-name provided. Build using JS, CSS, and HTML.
 
-Site is live at https://devanandgupta.github.io/Dev-Detective-Project/
+Site is live at https://
 
 Features:
 
